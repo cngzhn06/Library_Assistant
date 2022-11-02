@@ -1,0 +1,12 @@
+C:\Users\Cengizhan Ç\source\repos\KutuphaneAsistani\KutuphaneAsistani\bin\Debug\KutuphaneAsistani.exe.config
+C:\Users\Cengizhan Ç\source\repos\KutuphaneAsistani\KutuphaneAsistani\bin\Debug\KutuphaneAsistani.exe
+C:\Users\Cengizhan Ç\source\repos\KutuphaneAsistani\KutuphaneAsistani\bin\Debug\KutuphaneAsistani.pdb
+C:\Users\Cengizhan Ç\source\repos\KutuphaneAsistani\KutuphaneAsistani\obj\Debug\KutuphaneAsistani.csprojAssemblyReference.cache
+C:\Users\Cengizhan Ç\source\repos\KutuphaneAsistani\KutuphaneAsistani\obj\Debug\KutuphaneAsistani.Properties.Resources.resources
+C:\Users\Cengizhan Ç\source\repos\KutuphaneAsistani\KutuphaneAsistani\obj\Debug\KutuphaneAsistani.csproj.GenerateResource.cache
+C:\Users\Cengizhan Ç\source\repos\KutuphaneAsistani\KutuphaneAsistani\obj\Debug\KutuphaneAsistani.csproj.CoreCompileInputs.cache
+C:\Users\Cengizhan Ç\source\repos\KutuphaneAsistani\KutuphaneAsistani\obj\Debug\KutuphaneAsistani.exe
+C:\Users\Cengizhan Ç\source\repos\KutuphaneAsistani\KutuphaneAsistani\obj\Debug\KutuphaneAsistani.pdb
+C:\Users\Cengizhan Ç\source\repos\KutuphaneAsistani\KutuphaneAsistani\obj\Debug\KutuphaneAsistani.KayitOl.resources
+C:\Users\Cengizhan Ç\source\repos\KutuphaneAsistani\KutuphaneAsistani\obj\Debug\KutuphaneAsistani.GirisPanel.resources
+C:\Users\Cengizhan Ç\source\repos\KutuphaneAsistani\KutuphaneAsistani\obj\Debug\KutuphaneAsistani.AnaSayfa.resources
